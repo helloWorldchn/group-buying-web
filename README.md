@@ -1,23 +1,14 @@
-# leadnews_frontEnd
-# 黑马头条_前端源码
+# group-buying
+# 尚上优选web前端
 
 ### install the package
 npm install
 
-### the start command of leadnews-web-admin:
+### the start command of group-buying-web:
 npm run dev
 
-### the start command of leadnews-web-app:
-npm start
 
-### the start command of leadnews-web-wemedia:
-npm run dev
+### the URL of group-buying-web:
+http://localhost:9528/ 
 
-### the URL of leadnews-web-admin:
-http://localhost:8080
 
-### the URL of leadnews-web-app:
-http://localhost:8081
-
-### the URL of leadnews-web-wemedia:
-http://localhost:8282
